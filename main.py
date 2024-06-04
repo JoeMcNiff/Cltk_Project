@@ -12,7 +12,7 @@ corpus_downloader.import_corpus("lat_models_cltk")
 
 from word_counting import cltkTool
 
-latin_file = open("Ecologue.txt")
+latin_file = open("Latin.txt")
 data = latin_file.read()
 latin_file.close()
 
@@ -20,9 +20,6 @@ test = cltkTool(data)
 
 num = test.num_Unique()
 print(num)
-
-word = "illum"
-print(test.inTop1000(word))
 
 print(test.textTop1000())
 
