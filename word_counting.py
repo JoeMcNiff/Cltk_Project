@@ -30,11 +30,24 @@ class cltkTool(unittest.TestCase):
 
   @classmethod
   def __init__(self, latin_text):
+    # Clean up the latin_text
     latin_text = latin_text.translate(str.maketrans('', '', string.punctuation))
     latin_text = replace_jv(latin_text)
     latin_text = latin_text.lower()
+    latin_text = cltk.alphabet.lat.remove_macrons(latin_text)
     self.latin_text = latin_text
-
+    
+    self.tokens = self.word_tokenizer_latin(self)
+    
+    self.lemmas = self.lemma(self, self.tokens)
+    # Creates top1000 list
+    top1000File = open("top_1000.txt", "r")
+    self.top1000 = top1000File.readlines()
+    top1000File.close()
+    # Creates frequency rank list
+    freqRankFile = open("frequency_ranks.txt", "r")
+    self.frequency_ranks = freqRankFile.readlines()
+    freqRankFile.close()
 
   def word_tokenizer_latin(self):
     #target = self.latin_text
@@ -66,26 +79,55 @@ class cltkTool(unittest.TestCase):
 
   def inTop1000(self, word):  
     word += "\n"
-    file = open("top_1000.txt", "r")
-    top1000 = file.readlines()
-    file.close()
+    
 
-    if word in top1000:
+    if word in self.top1000:
       return True
     else:
       return False
-    
+
+  # Returns the percentage in top1000 and gives the frequency rank of each word in the output file ("---" for words not in top1000)
   def textTop1000(self):
-    tokens = self.word_tokenizer_latin()
-    lemmas = self.lemma(tokens)
+
+    file3 = open("output.txt", "w")
+
+
+    lemmas = self.lemmas
     num1000 = 0.0
 
     for lemma in lemmas:
-        if self.inTop1000(lemma[1]):
-            num1000 += 1
-            
-    return num1000/len(lemmas)  
+        word = lemma[1]
+        if "1" in lemma[1]:
+          word = word.replace("1", "")
+        if "2" in lemma[1]:
+          word = word.replace("2", "")
         
+        if self.inTop1000(word):
+            num1000 += 1
+            file3.write(self.top1000[self.top1000.index(word+"\n")].strip() + " "+ self.frequency_ranks[self.top1000.index(word+"\n")])
+        else:
+          # This is here for if you are examinging vocab lists for chapters.
+          if "capitul" in lemma[1]:
+            file3.write("\n")
+
+          file3.write(word.strip() + " "+"---\n")
+
+
+
+    file3.close()        
+    return num1000/len(lemmas)  
+
+  # Creates a list of unique latin words in the text that are not top1000      
+  def notTop1000List(self):
+    lemmas = self.lemmas
+    list = []
+    for lemma in lemmas:
+      if not self.inTop1000(lemma[1]) and lemma[1] not in list:
+        list.append(lemma[1])
+    
+    return list
+
+    
     
     
 
