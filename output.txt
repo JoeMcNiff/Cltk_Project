@@ -1,838 +1,840 @@
-menalcas ---
-dico 33
-ego 11
-damoeta ---
-cujus ---
-pecus 566
-an 94
-meliboei ---
-damoetas ---
-non 6
-uerus ---
-aegonis ---
-nuper ---
-ego 11
-trado 297
-aego ---
--ne ---
-menalcas ---
-infelix ---
-o ---
-semper 149
-ouis ---
-pecus 566
-ipse 22
-neaeram ---
-dum 103
-foveo ---
-atque 35
-ne 238
-ego 11
-sui 17
-praefero ---
-ille 8
-vereor 884
-hic 7
-alienus 367
-ouis ---
-custos 622
-bis ---
-mulgeo ---
-in 5
-hora 664
-et 1
-sucus ---
-pecus 566
-et 1
-lac ---
-subduco ---
-agnus ---
-damoetas ---
-parcus ---
-iste 81
-uir ---
-tamen 58
-obicio ---
-memento ---
-nosco 347
-et 1
-qui 3
-tu 9
-transverto ---
-tueor ---
-hircis ---
-et 1
-quo—sed ---
-facilis 451
-nympha ---
-risere—sacello ---
-menalcas ---
-tum 56
-credo 109
-cum 10
-ego 11
-arbustus ---
-uideo ---
-miconis ---
-atque 35
-malus 227
-vita 87
-incido 871
-falx ---
-novella ---
-damoetas ---
-aut 24
-hic 7
-ad 14
-ueteres ---
-fagus ---
-cum 10
-daphnidis ---
-arcus ---
-frango 345
-et 1
-calamus ---
-qui 3
-tu 9
-perverto ---
-menalca ---
-et 1
-cum 10
-uideo ---
-puer 191
-dono 606
-doleo 785
-et 1
-si 16
-non 6
-aliqui ---
-noceo 509
-mortuus ---
-sum 2
-menalcas ---
-quis 212
-dominus 241
-facio 32
-audeo 270
-cum 10
-talis 203
-furo ---
-non 6
-ego 11
-tu 9
-uideo ---
-damonis ---
-pessime ---
-caper ---
-excipio 394
-insidiae ---
-multus 43
-latro ---
-lycisca ---
-et 1
-cum 10
-clamaris ---
-“quo ---
-nunc 50
-sui 17
-proripio ---
-ille 8
-tityre ---
-cogo 250
-pecus” ---
-tu 9
-post 164
-carectum ---
-lateo 695
-damoetas ---
-an 94
-ego 11
-canto ---
-uinco ---
-non 6
-reddo 174
-ille 8
-qui 3
-meus 41
-carmen 254
-mereo 852
-fistula ---
-caper ---
-si 16
-nescio 525
-meus 41
-ille 8
-caper ---
-sum 2
-et 1
-ego 11
-damo ---
--ne ---
-ipse 22
-fateor 689
-sed 20
-reddo 174
-possum 23
-nego 294
-menalcas ---
-canto ---
-tu 9
-ille 8
-aut 24
-umquam 482
-tu 9
-fistula ---
-cero ---
-iungo 513
-sum 2
-non 6
-tu 9
-in 5
-trivius ---
-indoctus ---
-soleo 246
-strideo ---
-miser 137
-stipulo ---
-disperdo ---
-carmen 254
-damoetas ---
-uolo ---
-ergo 134
-inter 64
-nos 51
-quis 212
-possum 23
-uterque 243
-vicissim ---
-experior 713
-ego 11
-hic 7
-uitulam—ne ---
-fors 993
-recuso ---
-bis ---
-uenio ---
-ad 14
-mulctra ---
-bini ---
-alo 817
-uber ---
-fetus— ---
-depono ---
-tu 9
-dico 33
-cum 10
-ego 11
-quo 305
-pignus ---
-certo 864
-menalcas ---
-de 46
-grex ---
-non 6
-audeo 270
-quisquam 280
-depono ---
-cum 10
-tu 9
-sum 2
-ego 11
-namque ---
-domus 73
-pater 71
-sum 2
-iniustus ---
-noverca ---
-bis ---
-dies 54
-numero ---
-ambo ---
-pecus 566
-alter 148
-et 1
-haedus ---
-uerus ---
-is 13
-qui 3
-multus 43
-tueor ---
-ipse 22
-fateor 689
-magnus 25
-insanio ---
-libet 729
-quoniam 510
-tu 9
-poculum ---
-pono 102
-faginus ---
-caelo ---
-diuinus ---
-opus 332
-alcimedontis ---
-lentus ---
-qui 3
-torno ---
-facilis 451
-superaddo ---
-vita 87
-diffundo ---
-hedera ---
-vestio ---
-palleo ---
-corymbus ---
-in 5
-medium ---
-duo 221
-signum 261
-conus ---
--ne ---
-et—quis ---
-sum 2
-alter 148
-describo ---
-radio ---
-totus 78
-qui 3
-gens 194
-orbis 322
-tempus 89
-qui 3
-messor ---
-qui 3
-curvus ---
-arator ---
-habeo 39
-necdum ---
-ille 8
-labrum ---
-admoveo ---
-sed 20
-condio ---
-seruus ---
-damoetas ---
-et 1
-nos 51
-idem 59
-alcimedo ---
--ne ---
-duo 221
-poculum ---
-facio 32
-et 1
-mollis 356
-circum ---
-sum 2
-ansa ---
-amplector ---
-acanthus ---
-orpheaque ---
-in 5
-medium ---
-pono 102
-silva 234
-sequor 108
-necdum ---
-ille 8
-labrum ---
-admoveo ---
-sed 20
-condio ---
-seruus ---
-si 16
-ad 14
-vitula ---
-specto 473
-nihil ---
-sum 2
-qui 3
-poculum ---
-laus 444
-menalcas ---
-numquam 251
-hodie 981
-effugio ---
-uenia ---
-quicumque 284
-uoco ---
-audio 165
-hic 7
-tantum—uel ---
-qui 3
-uenio ---
-ecce 643
-palaemo ---
--ne ---
-efficio 573
-posthac ---
-ne 238
-quisquam 280
-uox ---
-lacesso ---
-damoetas ---
-quin 456
-ago 69
-si 16
-quis 212
-habeo 39
-in 5
-ego 11
-mora 399
-non 6
-sum 2
-ullus 178
-neque 72
-quisquam 280
-fugio 177
-tantus 105
-vinco 101
-palaemo ---
--ne ---
-sensus 793
-hic 7
-imus ---
-res 38
-sum 2
-non 6
-paruus ---
-repono ---
-palaemo ---
--ne ---
-dico 33
-quandoquidem ---
-in 5
-mollis 356
-consido ---
-herba ---
-et 1
-nunc 50
-omnis 18
-ager 324
-nunc 50
-omnis 18
-parturio ---
-arbor 468
-nunc 50
-frondeo ---
-silua ---
-nunc 50
-formosus ---
-annus 167
-incipio 411
-darmoeta ---
-tu 9
-deinde ---
-sequor 108
-menalca ---
-alternus ---
-dico 33
-amo 219
-alternus ---
-camenae ---
-damoetas ---
-ab ---
-iuppiter ---
-principium 948
-musa ---
-iuppiter ---
-omnis 18
-plenus 459
-ille 8
-colo 333
-terra 70
-ille 8
-meus 41
-carmen 254
-cura 186
-menalcas ---
-et 1
-ego 11
-phoebus ---
-amo 219
-phoebus ---
-suus 27
-semper 149
-apud 205
-ego 11
-munus 276
-sum 2
-laurus ---
-et 1
-suauis ---
-rubeo ---
-hyacinthus ---
-damoetas ---
-malus 227
-ego 11
-galatea ---
-peto 83
-lascivus ---
-puella 233
-et 1
-fugio 177
-ad 14
-salix ---
-et 1
-sui 17
-cupio 441
-ante 112
-uideo ---
-menalcas ---
-at 74
-ego 11
-sui 17
-offero 812
-ultro ---
-meus 41
-ignis 151
-amyntas ---
-nosco 347
-ut ---
-iam 34
-sum 2
-canis 687
-non 6
-de_-lio ---
-noster 52
-damoetas ---
-pario 829
-meus 41
-uenus ---
-sum 2
-munus 276
-namque ---
-noto ---
-ipse 22
-locus 62
-aëriae ---
-quo 305
-congero ---
-palumbis ---
-menalcas ---
-qui 3
-possum 23
-puer 191
-siluestri ---
-ex ---
-arbor 468
-lego 419
-aureus 691
-malus 227
-decem 914
-mitto 114
-creo 978
-alter 148
-mitto 114
-damoetas ---
-o ---
-quotiens 970
-et 1
-qui 3
-nos 51
-galatea ---
-loquor 310
-sum 2
-pars 65
-aliqui ---
-uentus ---
-deus 42
-refero 171
-ad 14
-auris 366
-menalcas ---
-quis 212
-prodo 929
-qui 3
-ego 11
-ipse 22
-animus 40
-non 6
-sperno ---
-amynta ---
-si 16
-dum 103
-tu 9
-sectaris ---
-aper ---
-ego 11
-rete ---
-seruus ---
-damoetas ---
-phyllida ---
-mitto 114
-ego 11
-meus 41
-sum 2
-natal ---
-iolla ---
-cum 10
-facio 32
-vitula ---
-pro 128
-frugis ---
-ipse 22
-venio 63
-menalcas ---
-phyllida ---
-amo 219
-ante 112
-alius 37
-nam 61
-ego 11
-discedo 726
-fleo 457
-et 1
-longus 142
-“formose ---
-ualeo ---
-uale” ---
-inquam ---
-“iolla” ---
-damoetas ---
-tristis 275
-lupus ---
-stabulis ---
-maturus ---
-frugis ---
-imber ---
-arbor 468
-uentus ---
-nos 51
-amaryllidis ---
-ira 187
-menalcas ---
-dulcis 383
-satis ---
-umor ---
-depello ---
-arbutus ---
-haedus ---
-lentus ---
-salix ---
-fetus ---
-pecus 566
-ego 11
-solus 176
-amyntas ---
-damoetas ---
-pollio ---
-amo 219
-noster 52
-quamuis ---
-sum 2
-rusticus ---
-musam ---
-pierides ---
-vitula ---
-lector ---
-pasco ---
-uester ---
-menalcas ---
-pollio ---
-et 1
-ipse 22
-facio 32
-nouus ---
-carmen 254
-pasco ---
-taurus ---
-iam 34
-cornu 591
-peto 83
-et 1
-pes 199
-qui 3
-spargo 532
-harena ---
-damoetas ---
-qui 3
-tu 9
-pollio ---
-amo 219
-uenio ---
-quo 305
-tu 9
-quoque 76
-gaudeo 407
-mel ---
-fluo 772
-ille 8
-fero 45
-et 1
-rubus ---
-asper ---
-amomum ---
-menalcas ---
-qui 3
-bauium ---
-non 6
-odi 790
-amo 219
-tuus 44
-carmen 254
-maeui ---
-atque 35
-idem 59
-jungo ---
-uulpes ---
-et 1
-mulgeo ---
-hircos ---
-damoetas ---
-qui 3
-lego 419
-floreo ---
-et 1
-humus 740
-nasco ---
-fraga ---
-frigidus ---
-o ---
-puer 191
-fugio 177
-hinc ---
-lateo 695
-anguis ---
-in 5
-herba ---
-menalcas ---
-parco 412
-ouis ---
-nimium ---
-procedo 746
-non 6
-bene 235
-ripa 662
-credo 109
-ipse 22
-aries ---
-etiam 67
-nunc 50
-vellus ---
-sicco ---
-damoetas ---
-tityre ---
-pasco ---
-ab ---
-flumen 283
-reicio ---
-capella ---
-ipse 22
-ubi 92
-tempus 89
-sum 2
-omnis 18
-in 5
-fons 706
-lauo ---
-menalcas ---
-cogo 250
-ouis ---
-puer 191
-si 16
-lac ---
-praecipio 945
-aestus ---
-ut ---
-nuper ---
-frustra 694
-presso ---
-uber ---
-palma ---
-damoetas ---
-heu ---
-heu ---
-quam 29
-pinguis ---
-macer ---
-sum 2
-ego 11
-taurus ---
-in 5
-eruo ---
-idem 59
-amor 116
-exitium ---
-sum 2
-pecus 566
-pecus 566
-magister 933
-menalcas ---
-hic 7
-certus 285
-neque 72
-amor 116
-causa 107
-sum 2
-uix ---
-os 147
-haereo ---
-nescio 525
-quis 212
-tener 490
-oculus 206
-ego 11
-fascino ---
-agnus ---
-damoetas ---
-dico 33
-qui 3
-in 5
-terris—et ---
-sum 2
-ego 11
-magnus 25
-apollo— ---
-tres 533
-pateo 550
-caelum 117
-spatium 426
-non 6
-amplus 915
-ulna ---
-menalcas ---
-dico 33
-qui 3
-in 5
-terra 70
-inscribo ---
-nomen 135
-rex 60
-nasco ---
-floreo ---
-et 1
-phyllida ---
-solus 176
-habeo 39
-palaemo ---
--ne ---
-non 6
-nos 51
-inter 64
-tu 9
-tantus 105
-compono 443
-lis ---
-et 1
-vitula ---
-tu 9
-dignus 291
-et 1
-hic 7
-et 1
-quisquis 129
-amor 116
-aut 24
-metuo 429
-dulcis 383
-aut 24
-experior 713
-amarus ---
-claudo 392
-iam 34
-riuus ---
-puer 191
-satis ---
-pratum ---
-bibo ---
+List of words in the text with their # of appearances followed by their respective frequency rank if they are top1000:
+
+menalcas, 19 appearances, rank: ---
+dico, 6 appearances, rank: 33
+ego, 23 appearances, rank: 11
+damoeta, 1 appearances, rank: ---
+cujus, 1 appearances, rank: ---
+pecus, 7 appearances, rank: 566
+an, 2 appearances, rank: 94
+meliboei, 1 appearances, rank: ---
+damoetas, 19 appearances, rank: ---
+non, 14 appearances, rank: 6
+uerus, 2 appearances, rank: ---
+aegonis, 1 appearances, rank: ---
+nuper, 2 appearances, rank: ---
+ego, 23 appearances, rank: 11
+trado, 1 appearances, rank: 297
+aego, 1 appearances, rank: ---
+-ne, 8 appearances, rank: ---
+menalcas, 19 appearances, rank: ---
+infelix, 1 appearances, rank: ---
+o, 3 appearances, rank: ---
+semper, 2 appearances, rank: 149
+ouis, 4 appearances, rank: ---
+pecus, 7 appearances, rank: 566
+ipse, 9 appearances, rank: 22
+neaeram, 1 appearances, rank: ---
+dum, 2 appearances, rank: 103
+foveo, 1 appearances, rank: ---
+atque, 3 appearances, rank: 35
+ne, 2 appearances, rank: 238
+ego, 23 appearances, rank: 11
+sui, 4 appearances, rank: 17
+praefero, 1 appearances, rank: ---
+ille, 10 appearances, rank: 8
+vereor, 1 appearances, rank: 884
+hic, 7 appearances, rank: 7
+alienus, 1 appearances, rank: 367
+ouis, 4 appearances, rank: ---
+custos, 1 appearances, rank: 622
+bis, 3 appearances, rank: ---
+mulgeo, 2 appearances, rank: ---
+in, 11 appearances, rank: 5
+hora, 1 appearances, rank: 664
+et, 28 appearances, rank: 1
+sucus, 1 appearances, rank: ---
+pecus, 7 appearances, rank: 566
+et, 28 appearances, rank: 1
+lac, 2 appearances, rank: ---
+subduco, 1 appearances, rank: ---
+agnus, 2 appearances, rank: ---
+damoetas, 19 appearances, rank: ---
+parcus, 1 appearances, rank: ---
+iste, 1 appearances, rank: 81
+uir, 1 appearances, rank: ---
+tamen, 1 appearances, rank: 58
+obicio, 1 appearances, rank: ---
+memento, 1 appearances, rank: ---
+nosco, 2 appearances, rank: 347
+et, 28 appearances, rank: 1
+qui, 19 appearances, rank: 3
+tu, 16 appearances, rank: 9
+transverto, 1 appearances, rank: ---
+tueor, 2 appearances, rank: ---
+hircis, 1 appearances, rank: ---
+et, 28 appearances, rank: 1
+quo—sed, 1 appearances, rank: ---
+facilis, 2 appearances, rank: 451
+nympha, 1 appearances, rank: ---
+risere—sacello, 1 appearances, rank: ---
+menalcas, 19 appearances, rank: ---
+tum, 1 appearances, rank: 56
+credo, 2 appearances, rank: 109
+cum, 8 appearances, rank: 10
+ego, 23 appearances, rank: 11
+arbustus, 1 appearances, rank: ---
+uideo, 4 appearances, rank: ---
+miconis, 1 appearances, rank: ---
+atque, 3 appearances, rank: 35
+malus, 3 appearances, rank: 227
+vita, 2 appearances, rank: 87
+incido, 1 appearances, rank: 871
+falx, 1 appearances, rank: ---
+novella, 1 appearances, rank: ---
+damoetas, 19 appearances, rank: ---
+aut, 4 appearances, rank: 24
+hic, 7 appearances, rank: 7
+ad, 5 appearances, rank: 14
+ueteres, 1 appearances, rank: ---
+fagus, 1 appearances, rank: ---
+cum, 8 appearances, rank: 10
+daphnidis, 1 appearances, rank: ---
+arcus, 1 appearances, rank: ---
+frango, 1 appearances, rank: 345
+et, 28 appearances, rank: 1
+calamus, 1 appearances, rank: ---
+qui, 19 appearances, rank: 3
+tu, 16 appearances, rank: 9
+perverto, 1 appearances, rank: ---
+menalca, 2 appearances, rank: ---
+et, 28 appearances, rank: 1
+cum, 8 appearances, rank: 10
+uideo, 4 appearances, rank: ---
+puer, 5 appearances, rank: 191
+dono, 1 appearances, rank: 606
+doleo, 1 appearances, rank: 785
+et, 28 appearances, rank: 1
+si, 6 appearances, rank: 16
+non, 14 appearances, rank: 6
+aliqui, 2 appearances, rank: ---
+noceo, 1 appearances, rank: 509
+mortuus, 1 appearances, rank: ---
+sum, 21 appearances, rank: 2
+menalcas, 19 appearances, rank: ---
+quis, 5 appearances, rank: 212
+dominus, 1 appearances, rank: 241
+facio, 4 appearances, rank: 32
+audeo, 2 appearances, rank: 270
+cum, 8 appearances, rank: 10
+talis, 1 appearances, rank: 203
+furo, 1 appearances, rank: ---
+non, 14 appearances, rank: 6
+ego, 23 appearances, rank: 11
+tu, 16 appearances, rank: 9
+uideo, 4 appearances, rank: ---
+damonis, 1 appearances, rank: ---
+pessime, 1 appearances, rank: ---
+caper, 3 appearances, rank: ---
+excipio, 1 appearances, rank: 394
+insidiae, 1 appearances, rank: ---
+multus, 2 appearances, rank: 43
+latro, 1 appearances, rank: ---
+lycisca, 1 appearances, rank: ---
+et, 28 appearances, rank: 1
+cum, 8 appearances, rank: 10
+clamaris, 1 appearances, rank: ---
+“quo, 1 appearances, rank: ---
+nunc, 6 appearances, rank: 50
+sui, 4 appearances, rank: 17
+proripio, 1 appearances, rank: ---
+ille, 10 appearances, rank: 8
+tityre, 2 appearances, rank: ---
+cogo, 2 appearances, rank: 250
+pecus”, 1 appearances, rank: ---
+tu, 16 appearances, rank: 9
+post, 1 appearances, rank: 164
+carectum, 1 appearances, rank: ---
+lateo, 2 appearances, rank: 695
+damoetas, 19 appearances, rank: ---
+an, 2 appearances, rank: 94
+ego, 23 appearances, rank: 11
+canto, 2 appearances, rank: ---
+uinco, 1 appearances, rank: ---
+non, 14 appearances, rank: 6
+reddo, 2 appearances, rank: 174
+ille, 10 appearances, rank: 8
+qui, 19 appearances, rank: 3
+meus, 6 appearances, rank: 41
+carmen, 5 appearances, rank: 254
+mereo, 1 appearances, rank: 852
+fistula, 2 appearances, rank: ---
+caper, 3 appearances, rank: ---
+si, 6 appearances, rank: 16
+nescio, 2 appearances, rank: 525
+meus, 6 appearances, rank: 41
+ille, 10 appearances, rank: 8
+caper, 3 appearances, rank: ---
+sum, 21 appearances, rank: 2
+et, 28 appearances, rank: 1
+ego, 23 appearances, rank: 11
+damo, 1 appearances, rank: ---
+-ne, 8 appearances, rank: ---
+ipse, 9 appearances, rank: 22
+fateor, 2 appearances, rank: 689
+sed, 3 appearances, rank: 20
+reddo, 2 appearances, rank: 174
+possum, 3 appearances, rank: 23
+nego, 1 appearances, rank: 294
+menalcas, 19 appearances, rank: ---
+canto, 2 appearances, rank: ---
+tu, 16 appearances, rank: 9
+ille, 10 appearances, rank: 8
+aut, 4 appearances, rank: 24
+umquam, 1 appearances, rank: 482
+tu, 16 appearances, rank: 9
+fistula, 2 appearances, rank: ---
+cero, 1 appearances, rank: ---
+iungo, 1 appearances, rank: 513
+sum, 21 appearances, rank: 2
+non, 14 appearances, rank: 6
+tu, 16 appearances, rank: 9
+in, 11 appearances, rank: 5
+trivius, 1 appearances, rank: ---
+indoctus, 1 appearances, rank: ---
+soleo, 1 appearances, rank: 246
+strideo, 1 appearances, rank: ---
+miser, 1 appearances, rank: 137
+stipulo, 1 appearances, rank: ---
+disperdo, 1 appearances, rank: ---
+carmen, 5 appearances, rank: 254
+damoetas, 19 appearances, rank: ---
+uolo, 1 appearances, rank: ---
+ergo, 1 appearances, rank: 134
+inter, 2 appearances, rank: 64
+nos, 5 appearances, rank: 51
+quis, 5 appearances, rank: 212
+possum, 3 appearances, rank: 23
+uterque, 1 appearances, rank: 243
+vicissim, 1 appearances, rank: ---
+experior, 2 appearances, rank: 713
+ego, 23 appearances, rank: 11
+hic, 7 appearances, rank: 7
+uitulam—ne, 1 appearances, rank: ---
+fors, 1 appearances, rank: 993
+recuso, 1 appearances, rank: ---
+bis, 3 appearances, rank: ---
+uenio, 3 appearances, rank: ---
+ad, 5 appearances, rank: 14
+mulctra, 1 appearances, rank: ---
+bini, 1 appearances, rank: ---
+alo, 1 appearances, rank: 817
+uber, 2 appearances, rank: ---
+fetus—, 1 appearances, rank: ---
+depono, 2 appearances, rank: ---
+tu, 16 appearances, rank: 9
+dico, 6 appearances, rank: 33
+cum, 8 appearances, rank: 10
+ego, 23 appearances, rank: 11
+quo, 3 appearances, rank: 305
+pignus, 1 appearances, rank: ---
+certo, 1 appearances, rank: 864
+menalcas, 19 appearances, rank: ---
+de, 1 appearances, rank: 46
+grex, 1 appearances, rank: ---
+non, 14 appearances, rank: 6
+audeo, 2 appearances, rank: 270
+quisquam, 3 appearances, rank: 280
+depono, 2 appearances, rank: ---
+cum, 8 appearances, rank: 10
+tu, 16 appearances, rank: 9
+sum, 21 appearances, rank: 2
+ego, 23 appearances, rank: 11
+namque, 2 appearances, rank: ---
+domus, 1 appearances, rank: 73
+pater, 1 appearances, rank: 71
+sum, 21 appearances, rank: 2
+iniustus, 1 appearances, rank: ---
+noverca, 1 appearances, rank: ---
+bis, 3 appearances, rank: ---
+dies, 1 appearances, rank: 54
+numero, 1 appearances, rank: ---
+ambo, 1 appearances, rank: ---
+pecus, 7 appearances, rank: 566
+alter, 3 appearances, rank: 148
+et, 28 appearances, rank: 1
+haedus, 2 appearances, rank: ---
+uerus, 2 appearances, rank: ---
+is, 1 appearances, rank: 13
+qui, 19 appearances, rank: 3
+multus, 2 appearances, rank: 43
+tueor, 2 appearances, rank: ---
+ipse, 9 appearances, rank: 22
+fateor, 2 appearances, rank: 689
+magnus, 2 appearances, rank: 25
+insanio, 1 appearances, rank: ---
+libet, 1 appearances, rank: 729
+quoniam, 1 appearances, rank: 510
+tu, 16 appearances, rank: 9
+poculum, 3 appearances, rank: ---
+pono, 2 appearances, rank: 102
+faginus, 1 appearances, rank: ---
+caelo, 1 appearances, rank: ---
+diuinus, 1 appearances, rank: ---
+opus, 1 appearances, rank: 332
+alcimedontis, 1 appearances, rank: ---
+lentus, 2 appearances, rank: ---
+qui, 19 appearances, rank: 3
+torno, 1 appearances, rank: ---
+facilis, 2 appearances, rank: 451
+superaddo, 1 appearances, rank: ---
+vita, 2 appearances, rank: 87
+diffundo, 1 appearances, rank: ---
+hedera, 1 appearances, rank: ---
+vestio, 1 appearances, rank: ---
+palleo, 1 appearances, rank: ---
+corymbus, 1 appearances, rank: ---
+in, 11 appearances, rank: 5
+medium, 2 appearances, rank: ---
+duo, 2 appearances, rank: 221
+signum, 1 appearances, rank: 261
+conus, 1 appearances, rank: ---
+-ne, 8 appearances, rank: ---
+et—quis, 1 appearances, rank: ---
+sum, 21 appearances, rank: 2
+alter, 3 appearances, rank: 148
+describo, 1 appearances, rank: ---
+radio, 1 appearances, rank: ---
+totus, 1 appearances, rank: 78
+qui, 19 appearances, rank: 3
+gens, 1 appearances, rank: 194
+orbis, 1 appearances, rank: 322
+tempus, 2 appearances, rank: 89
+qui, 19 appearances, rank: 3
+messor, 1 appearances, rank: ---
+qui, 19 appearances, rank: 3
+curvus, 1 appearances, rank: ---
+arator, 1 appearances, rank: ---
+habeo, 3 appearances, rank: 39
+necdum, 2 appearances, rank: ---
+ille, 10 appearances, rank: 8
+labrum, 2 appearances, rank: ---
+admoveo, 2 appearances, rank: ---
+sed, 3 appearances, rank: 20
+condio, 2 appearances, rank: ---
+seruus, 3 appearances, rank: ---
+damoetas, 19 appearances, rank: ---
+et, 28 appearances, rank: 1
+nos, 5 appearances, rank: 51
+idem, 3 appearances, rank: 59
+alcimedo, 1 appearances, rank: ---
+-ne, 8 appearances, rank: ---
+duo, 2 appearances, rank: 221
+poculum, 3 appearances, rank: ---
+facio, 4 appearances, rank: 32
+et, 28 appearances, rank: 1
+mollis, 2 appearances, rank: 356
+circum, 1 appearances, rank: ---
+sum, 21 appearances, rank: 2
+ansa, 1 appearances, rank: ---
+amplector, 1 appearances, rank: ---
+acanthus, 1 appearances, rank: ---
+orpheaque, 1 appearances, rank: ---
+in, 11 appearances, rank: 5
+medium, 2 appearances, rank: ---
+pono, 2 appearances, rank: 102
+silva, 1 appearances, rank: 234
+sequor, 2 appearances, rank: 108
+necdum, 2 appearances, rank: ---
+ille, 10 appearances, rank: 8
+labrum, 2 appearances, rank: ---
+admoveo, 2 appearances, rank: ---
+sed, 3 appearances, rank: 20
+condio, 2 appearances, rank: ---
+seruus, 3 appearances, rank: ---
+si, 6 appearances, rank: 16
+ad, 5 appearances, rank: 14
+vitula, 4 appearances, rank: ---
+specto, 1 appearances, rank: 473
+nihil, 1 appearances, rank: ---
+sum, 21 appearances, rank: 2
+qui, 19 appearances, rank: 3
+poculum, 3 appearances, rank: ---
+laus, 1 appearances, rank: 444
+menalcas, 19 appearances, rank: ---
+numquam, 1 appearances, rank: 251
+hodie, 1 appearances, rank: 981
+effugio, 1 appearances, rank: ---
+uenia, 1 appearances, rank: ---
+quicumque, 1 appearances, rank: 284
+uoco, 1 appearances, rank: ---
+audio, 1 appearances, rank: 165
+hic, 7 appearances, rank: 7
+tantum—uel, 1 appearances, rank: ---
+qui, 19 appearances, rank: 3
+uenio, 3 appearances, rank: ---
+ecce, 1 appearances, rank: 643
+palaemo, 4 appearances, rank: ---
+-ne, 8 appearances, rank: ---
+efficio, 1 appearances, rank: 573
+posthac, 1 appearances, rank: ---
+ne, 2 appearances, rank: 238
+quisquam, 3 appearances, rank: 280
+uox, 1 appearances, rank: ---
+lacesso, 1 appearances, rank: ---
+damoetas, 19 appearances, rank: ---
+quin, 1 appearances, rank: 456
+ago, 1 appearances, rank: 69
+si, 6 appearances, rank: 16
+quis, 5 appearances, rank: 212
+habeo, 3 appearances, rank: 39
+in, 11 appearances, rank: 5
+ego, 23 appearances, rank: 11
+mora, 1 appearances, rank: 399
+non, 14 appearances, rank: 6
+sum, 21 appearances, rank: 2
+ullus, 1 appearances, rank: 178
+neque, 2 appearances, rank: 72
+quisquam, 3 appearances, rank: 280
+fugio, 3 appearances, rank: 177
+tantus, 2 appearances, rank: 105
+vinco, 1 appearances, rank: 101
+palaemo, 4 appearances, rank: ---
+-ne, 8 appearances, rank: ---
+sensus, 1 appearances, rank: 793
+hic, 7 appearances, rank: 7
+imus, 1 appearances, rank: ---
+res, 1 appearances, rank: 38
+sum, 21 appearances, rank: 2
+non, 14 appearances, rank: 6
+paruus, 1 appearances, rank: ---
+repono, 1 appearances, rank: ---
+palaemo, 4 appearances, rank: ---
+-ne, 8 appearances, rank: ---
+dico, 6 appearances, rank: 33
+quandoquidem, 1 appearances, rank: ---
+in, 11 appearances, rank: 5
+mollis, 2 appearances, rank: 356
+consido, 1 appearances, rank: ---
+herba, 2 appearances, rank: ---
+et, 28 appearances, rank: 1
+nunc, 6 appearances, rank: 50
+omnis, 4 appearances, rank: 18
+ager, 1 appearances, rank: 324
+nunc, 6 appearances, rank: 50
+omnis, 4 appearances, rank: 18
+parturio, 1 appearances, rank: ---
+arbor, 3 appearances, rank: 468
+nunc, 6 appearances, rank: 50
+frondeo, 1 appearances, rank: ---
+silua, 1 appearances, rank: ---
+nunc, 6 appearances, rank: 50
+formosus, 1 appearances, rank: ---
+annus, 1 appearances, rank: 167
+incipio, 1 appearances, rank: 411
+darmoeta, 1 appearances, rank: ---
+tu, 16 appearances, rank: 9
+deinde, 1 appearances, rank: ---
+sequor, 2 appearances, rank: 108
+menalca, 2 appearances, rank: ---
+alternus, 2 appearances, rank: ---
+dico, 6 appearances, rank: 33
+amo, 6 appearances, rank: 219
+alternus, 2 appearances, rank: ---
+camenae, 1 appearances, rank: ---
+damoetas, 19 appearances, rank: ---
+ab, 2 appearances, rank: ---
+iuppiter, 2 appearances, rank: ---
+principium, 1 appearances, rank: 948
+musa, 1 appearances, rank: ---
+iuppiter, 2 appearances, rank: ---
+omnis, 4 appearances, rank: 18
+plenus, 1 appearances, rank: 459
+ille, 10 appearances, rank: 8
+colo, 1 appearances, rank: 333
+terra, 2 appearances, rank: 70
+ille, 10 appearances, rank: 8
+meus, 6 appearances, rank: 41
+carmen, 5 appearances, rank: 254
+cura, 1 appearances, rank: 186
+menalcas, 19 appearances, rank: ---
+et, 28 appearances, rank: 1
+ego, 23 appearances, rank: 11
+phoebus, 2 appearances, rank: ---
+amo, 6 appearances, rank: 219
+phoebus, 2 appearances, rank: ---
+suus, 1 appearances, rank: 27
+semper, 2 appearances, rank: 149
+apud, 1 appearances, rank: 205
+ego, 23 appearances, rank: 11
+munus, 2 appearances, rank: 276
+sum, 21 appearances, rank: 2
+laurus, 1 appearances, rank: ---
+et, 28 appearances, rank: 1
+suauis, 1 appearances, rank: ---
+rubeo, 1 appearances, rank: ---
+hyacinthus, 1 appearances, rank: ---
+damoetas, 19 appearances, rank: ---
+malus, 3 appearances, rank: 227
+ego, 23 appearances, rank: 11
+galatea, 2 appearances, rank: ---
+peto, 2 appearances, rank: 83
+lascivus, 1 appearances, rank: ---
+puella, 1 appearances, rank: 233
+et, 28 appearances, rank: 1
+fugio, 3 appearances, rank: 177
+ad, 5 appearances, rank: 14
+salix, 2 appearances, rank: ---
+et, 28 appearances, rank: 1
+sui, 4 appearances, rank: 17
+cupio, 1 appearances, rank: 441
+ante, 2 appearances, rank: 112
+uideo, 4 appearances, rank: ---
+menalcas, 19 appearances, rank: ---
+at, 1 appearances, rank: 74
+ego, 23 appearances, rank: 11
+sui, 4 appearances, rank: 17
+offero, 1 appearances, rank: 812
+ultro, 1 appearances, rank: ---
+meus, 6 appearances, rank: 41
+ignis, 1 appearances, rank: 151
+amyntas, 2 appearances, rank: ---
+nosco, 2 appearances, rank: 347
+ut, 2 appearances, rank: ---
+iam, 3 appearances, rank: 34
+sum, 21 appearances, rank: 2
+canis, 1 appearances, rank: 687
+non, 14 appearances, rank: 6
+de_-lio, 1 appearances, rank: ---
+noster, 2 appearances, rank: 52
+damoetas, 19 appearances, rank: ---
+pario, 1 appearances, rank: 829
+meus, 6 appearances, rank: 41
+uenus, 1 appearances, rank: ---
+sum, 21 appearances, rank: 2
+munus, 2 appearances, rank: 276
+namque, 2 appearances, rank: ---
+noto, 1 appearances, rank: ---
+ipse, 9 appearances, rank: 22
+locus, 1 appearances, rank: 62
+aëriae, 1 appearances, rank: ---
+quo, 3 appearances, rank: 305
+congero, 1 appearances, rank: ---
+palumbis, 1 appearances, rank: ---
+menalcas, 19 appearances, rank: ---
+qui, 19 appearances, rank: 3
+possum, 3 appearances, rank: 23
+puer, 5 appearances, rank: 191
+siluestri, 1 appearances, rank: ---
+ex, 1 appearances, rank: ---
+arbor, 3 appearances, rank: 468
+lego, 2 appearances, rank: 419
+aureus, 1 appearances, rank: 691
+malus, 3 appearances, rank: 227
+decem, 1 appearances, rank: 914
+mitto, 3 appearances, rank: 114
+creo, 1 appearances, rank: 978
+alter, 3 appearances, rank: 148
+mitto, 3 appearances, rank: 114
+damoetas, 19 appearances, rank: ---
+o, 3 appearances, rank: ---
+quotiens, 1 appearances, rank: 970
+et, 28 appearances, rank: 1
+qui, 19 appearances, rank: 3
+nos, 5 appearances, rank: 51
+galatea, 2 appearances, rank: ---
+loquor, 1 appearances, rank: 310
+sum, 21 appearances, rank: 2
+pars, 1 appearances, rank: 65
+aliqui, 2 appearances, rank: ---
+uentus, 2 appearances, rank: ---
+deus, 1 appearances, rank: 42
+refero, 1 appearances, rank: 171
+ad, 5 appearances, rank: 14
+auris, 1 appearances, rank: 366
+menalcas, 19 appearances, rank: ---
+quis, 5 appearances, rank: 212
+prodo, 1 appearances, rank: 929
+qui, 19 appearances, rank: 3
+ego, 23 appearances, rank: 11
+ipse, 9 appearances, rank: 22
+animus, 1 appearances, rank: 40
+non, 14 appearances, rank: 6
+sperno, 1 appearances, rank: ---
+amynta, 1 appearances, rank: ---
+si, 6 appearances, rank: 16
+dum, 2 appearances, rank: 103
+tu, 16 appearances, rank: 9
+sectaris, 1 appearances, rank: ---
+aper, 1 appearances, rank: ---
+ego, 23 appearances, rank: 11
+rete, 1 appearances, rank: ---
+seruus, 3 appearances, rank: ---
+damoetas, 19 appearances, rank: ---
+phyllida, 3 appearances, rank: ---
+mitto, 3 appearances, rank: 114
+ego, 23 appearances, rank: 11
+meus, 6 appearances, rank: 41
+sum, 21 appearances, rank: 2
+natal, 1 appearances, rank: ---
+iolla, 1 appearances, rank: ---
+cum, 8 appearances, rank: 10
+facio, 4 appearances, rank: 32
+vitula, 4 appearances, rank: ---
+pro, 1 appearances, rank: 128
+frugis, 2 appearances, rank: ---
+ipse, 9 appearances, rank: 22
+venio, 1 appearances, rank: 63
+menalcas, 19 appearances, rank: ---
+phyllida, 3 appearances, rank: ---
+amo, 6 appearances, rank: 219
+ante, 2 appearances, rank: 112
+alius, 1 appearances, rank: 37
+nam, 1 appearances, rank: 61
+ego, 23 appearances, rank: 11
+discedo, 1 appearances, rank: 726
+fleo, 1 appearances, rank: 457
+et, 28 appearances, rank: 1
+longus, 1 appearances, rank: 142
+“formose, 1 appearances, rank: ---
+ualeo, 1 appearances, rank: ---
+uale”, 1 appearances, rank: ---
+inquam, 1 appearances, rank: ---
+“iolla”, 1 appearances, rank: ---
+damoetas, 19 appearances, rank: ---
+tristis, 1 appearances, rank: 275
+lupus, 1 appearances, rank: ---
+stabulis, 1 appearances, rank: ---
+maturus, 1 appearances, rank: ---
+frugis, 2 appearances, rank: ---
+imber, 1 appearances, rank: ---
+arbor, 3 appearances, rank: 468
+uentus, 2 appearances, rank: ---
+nos, 5 appearances, rank: 51
+amaryllidis, 1 appearances, rank: ---
+ira, 1 appearances, rank: 187
+menalcas, 19 appearances, rank: ---
+dulcis, 2 appearances, rank: 383
+satis, 2 appearances, rank: ---
+umor, 1 appearances, rank: ---
+depello, 1 appearances, rank: ---
+arbutus, 1 appearances, rank: ---
+haedus, 2 appearances, rank: ---
+lentus, 2 appearances, rank: ---
+salix, 2 appearances, rank: ---
+fetus, 1 appearances, rank: ---
+pecus, 7 appearances, rank: 566
+ego, 23 appearances, rank: 11
+solus, 2 appearances, rank: 176
+amyntas, 2 appearances, rank: ---
+damoetas, 19 appearances, rank: ---
+pollio, 3 appearances, rank: ---
+amo, 6 appearances, rank: 219
+noster, 2 appearances, rank: 52
+quamuis, 1 appearances, rank: ---
+sum, 21 appearances, rank: 2
+rusticus, 1 appearances, rank: ---
+musam, 1 appearances, rank: ---
+pierides, 1 appearances, rank: ---
+vitula, 4 appearances, rank: ---
+lector, 1 appearances, rank: ---
+pasco, 3 appearances, rank: ---
+uester, 1 appearances, rank: ---
+menalcas, 19 appearances, rank: ---
+pollio, 3 appearances, rank: ---
+et, 28 appearances, rank: 1
+ipse, 9 appearances, rank: 22
+facio, 4 appearances, rank: 32
+nouus, 1 appearances, rank: ---
+carmen, 5 appearances, rank: 254
+pasco, 3 appearances, rank: ---
+taurus, 2 appearances, rank: ---
+iam, 3 appearances, rank: 34
+cornu, 1 appearances, rank: 591
+peto, 2 appearances, rank: 83
+et, 28 appearances, rank: 1
+pes, 1 appearances, rank: 199
+qui, 19 appearances, rank: 3
+spargo, 1 appearances, rank: 532
+harena, 1 appearances, rank: ---
+damoetas, 19 appearances, rank: ---
+qui, 19 appearances, rank: 3
+tu, 16 appearances, rank: 9
+pollio, 3 appearances, rank: ---
+amo, 6 appearances, rank: 219
+uenio, 3 appearances, rank: ---
+quo, 3 appearances, rank: 305
+tu, 16 appearances, rank: 9
+quoque, 1 appearances, rank: 76
+gaudeo, 1 appearances, rank: 407
+mel, 1 appearances, rank: ---
+fluo, 1 appearances, rank: 772
+ille, 10 appearances, rank: 8
+fero, 1 appearances, rank: 45
+et, 28 appearances, rank: 1
+rubus, 1 appearances, rank: ---
+asper, 1 appearances, rank: ---
+amomum, 1 appearances, rank: ---
+menalcas, 19 appearances, rank: ---
+qui, 19 appearances, rank: 3
+bauium, 1 appearances, rank: ---
+non, 14 appearances, rank: 6
+odi, 1 appearances, rank: 790
+amo, 6 appearances, rank: 219
+tuus, 1 appearances, rank: 44
+carmen, 5 appearances, rank: 254
+maeui, 1 appearances, rank: ---
+atque, 3 appearances, rank: 35
+idem, 3 appearances, rank: 59
+jungo, 1 appearances, rank: ---
+uulpes, 1 appearances, rank: ---
+et, 28 appearances, rank: 1
+mulgeo, 2 appearances, rank: ---
+hircos, 1 appearances, rank: ---
+damoetas, 19 appearances, rank: ---
+qui, 19 appearances, rank: 3
+lego, 2 appearances, rank: 419
+floreo, 2 appearances, rank: ---
+et, 28 appearances, rank: 1
+humus, 1 appearances, rank: 740
+nasco, 2 appearances, rank: ---
+fraga, 1 appearances, rank: ---
+frigidus, 1 appearances, rank: ---
+o, 3 appearances, rank: ---
+puer, 5 appearances, rank: 191
+fugio, 3 appearances, rank: 177
+hinc, 1 appearances, rank: ---
+lateo, 2 appearances, rank: 695
+anguis, 1 appearances, rank: ---
+in, 11 appearances, rank: 5
+herba, 2 appearances, rank: ---
+menalcas, 19 appearances, rank: ---
+parco, 1 appearances, rank: 412
+ouis, 4 appearances, rank: ---
+nimium, 1 appearances, rank: ---
+procedo, 1 appearances, rank: 746
+non, 14 appearances, rank: 6
+bene, 1 appearances, rank: 235
+ripa, 1 appearances, rank: 662
+credo, 2 appearances, rank: 109
+ipse, 9 appearances, rank: 22
+aries, 1 appearances, rank: ---
+etiam, 1 appearances, rank: 67
+nunc, 6 appearances, rank: 50
+vellus, 1 appearances, rank: ---
+sicco, 1 appearances, rank: ---
+damoetas, 19 appearances, rank: ---
+tityre, 2 appearances, rank: ---
+pasco, 3 appearances, rank: ---
+ab, 2 appearances, rank: ---
+flumen, 1 appearances, rank: 283
+reicio, 1 appearances, rank: ---
+capella, 1 appearances, rank: ---
+ipse, 9 appearances, rank: 22
+ubi, 1 appearances, rank: 92
+tempus, 2 appearances, rank: 89
+sum, 21 appearances, rank: 2
+omnis, 4 appearances, rank: 18
+in, 11 appearances, rank: 5
+fons, 1 appearances, rank: 706
+lauo, 1 appearances, rank: ---
+menalcas, 19 appearances, rank: ---
+cogo, 2 appearances, rank: 250
+ouis, 4 appearances, rank: ---
+puer, 5 appearances, rank: 191
+si, 6 appearances, rank: 16
+lac, 2 appearances, rank: ---
+praecipio, 1 appearances, rank: 945
+aestus, 1 appearances, rank: ---
+ut, 2 appearances, rank: ---
+nuper, 2 appearances, rank: ---
+frustra, 1 appearances, rank: 694
+presso, 1 appearances, rank: ---
+uber, 2 appearances, rank: ---
+palma, 1 appearances, rank: ---
+damoetas, 19 appearances, rank: ---
+heu, 2 appearances, rank: ---
+heu, 2 appearances, rank: ---
+quam, 1 appearances, rank: 29
+pinguis, 1 appearances, rank: ---
+macer, 1 appearances, rank: ---
+sum, 21 appearances, rank: 2
+ego, 23 appearances, rank: 11
+taurus, 2 appearances, rank: ---
+in, 11 appearances, rank: 5
+eruo, 1 appearances, rank: ---
+idem, 3 appearances, rank: 59
+amor, 3 appearances, rank: 116
+exitium, 1 appearances, rank: ---
+sum, 21 appearances, rank: 2
+pecus, 7 appearances, rank: 566
+pecus, 7 appearances, rank: 566
+magister, 1 appearances, rank: 933
+menalcas, 19 appearances, rank: ---
+hic, 7 appearances, rank: 7
+certus, 1 appearances, rank: 285
+neque, 2 appearances, rank: 72
+amor, 3 appearances, rank: 116
+causa, 1 appearances, rank: 107
+sum, 21 appearances, rank: 2
+uix, 1 appearances, rank: ---
+os, 1 appearances, rank: 147
+haereo, 1 appearances, rank: ---
+nescio, 2 appearances, rank: 525
+quis, 5 appearances, rank: 212
+tener, 1 appearances, rank: 490
+oculus, 1 appearances, rank: 206
+ego, 23 appearances, rank: 11
+fascino, 1 appearances, rank: ---
+agnus, 2 appearances, rank: ---
+damoetas, 19 appearances, rank: ---
+dico, 6 appearances, rank: 33
+qui, 19 appearances, rank: 3
+in, 11 appearances, rank: 5
+terris—et, 1 appearances, rank: ---
+sum, 21 appearances, rank: 2
+ego, 23 appearances, rank: 11
+magnus, 2 appearances, rank: 25
+apollo—, 1 appearances, rank: ---
+tres, 1 appearances, rank: 533
+pateo, 1 appearances, rank: 550
+caelum, 1 appearances, rank: 117
+spatium, 1 appearances, rank: 426
+non, 14 appearances, rank: 6
+amplus, 1 appearances, rank: 915
+ulna, 1 appearances, rank: ---
+menalcas, 19 appearances, rank: ---
+dico, 6 appearances, rank: 33
+qui, 19 appearances, rank: 3
+in, 11 appearances, rank: 5
+terra, 2 appearances, rank: 70
+inscribo, 1 appearances, rank: ---
+nomen, 1 appearances, rank: 135
+rex, 1 appearances, rank: 60
+nasco, 2 appearances, rank: ---
+floreo, 2 appearances, rank: ---
+et, 28 appearances, rank: 1
+phyllida, 3 appearances, rank: ---
+solus, 2 appearances, rank: 176
+habeo, 3 appearances, rank: 39
+palaemo, 4 appearances, rank: ---
+-ne, 8 appearances, rank: ---
+non, 14 appearances, rank: 6
+nos, 5 appearances, rank: 51
+inter, 2 appearances, rank: 64
+tu, 16 appearances, rank: 9
+tantus, 2 appearances, rank: 105
+compono, 1 appearances, rank: 443
+lis, 1 appearances, rank: ---
+et, 28 appearances, rank: 1
+vitula, 4 appearances, rank: ---
+tu, 16 appearances, rank: 9
+dignus, 1 appearances, rank: 291
+et, 28 appearances, rank: 1
+hic, 7 appearances, rank: 7
+et, 28 appearances, rank: 1
+quisquis, 1 appearances, rank: 129
+amor, 3 appearances, rank: 116
+aut, 4 appearances, rank: 24
+metuo, 1 appearances, rank: 429
+dulcis, 2 appearances, rank: 383
+aut, 4 appearances, rank: 24
+experior, 2 appearances, rank: 713
+amarus, 1 appearances, rank: ---
+claudo, 1 appearances, rank: 392
+iam, 3 appearances, rank: 34
+riuus, 1 appearances, rank: ---
+puer, 5 appearances, rank: 191
+satis, 2 appearances, rank: ---
+pratum, 1 appearances, rank: ---
+bibo, 1 appearances, rank: ---

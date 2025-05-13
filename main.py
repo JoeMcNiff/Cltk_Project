@@ -22,7 +22,7 @@ tokenizer = LatinWordTokenizer()
 #print(cltk.alphabet.lat.remove_accents("trēs") == ("trēs"))
 #print("ē" == "ē")
 
-print(test.notTop1000List())
+#print(test.notTop1000List())
 
 
 

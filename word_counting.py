@@ -49,6 +49,20 @@ class cltkTool(unittest.TestCase):
     self.frequency_ranks = freqRankFile.readlines()
     freqRankFile.close()
 
+    # Create a dictionary with the word as the keyvalue and the number of appearances as the corresponding entry
+    wordAppearances = {}
+    for lemma in self.lemmas:
+        word = lemma[1]
+        if "1" in lemma[1]:
+          word = word.replace("1", "")
+        if "2" in lemma[1]:
+          word = word.replace("2", "")
+        if word in wordAppearances:
+          wordAppearances[word] += 1
+        else:
+          wordAppearances[word] = 1
+    self.wordAppearances = wordAppearances
+
   def word_tokenizer_latin(self):
     #target = self.latin_text
     tokenizer = LatinWordTokenizer()
@@ -79,8 +93,6 @@ class cltkTool(unittest.TestCase):
 
   def inTop1000(self, word):  
     word += "\n"
-    
-
     if word in self.top1000:
       return True
     else:
@@ -90,11 +102,10 @@ class cltkTool(unittest.TestCase):
   def textTop1000(self):
 
     file3 = open("output.txt", "w")
-
+    file3.write("List of words in the text with their # of appearances followed by their respective frequency rank if they are top1000:\n\n")
 
     lemmas = self.lemmas
     num1000 = 0.0
-
     for lemma in lemmas:
         word = lemma[1]
         if "1" in lemma[1]:
@@ -104,17 +115,17 @@ class cltkTool(unittest.TestCase):
         
         if self.inTop1000(word):
             num1000 += 1
-            file3.write(self.top1000[self.top1000.index(word+"\n")].strip() + " "+ self.frequency_ranks[self.top1000.index(word+"\n")])
+            file3.write(self.top1000[self.top1000.index(word+"\n")].strip() + ", " + str(self.wordAppearances[word])+ " appearances, rank: "+ self.frequency_ranks[self.top1000.index(word+"\n")])
         else:
           # This is here for if you are examinging vocab lists for chapters.
           if "capitul" in lemma[1]:
             file3.write("\n")
 
-          file3.write(word.strip() + " "+"---\n")
+          file3.write(word.strip() + ", "+str(self.wordAppearances[word])+ " appearances, rank: "+"---\n")
 
 
 
-    file3.close()        
+    file3.close()    
     return num1000/len(lemmas)  
 
   # Creates a list of unique latin words in the text that are not top1000      
